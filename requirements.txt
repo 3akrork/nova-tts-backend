@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+TTS
+supabase
+python-multipart
